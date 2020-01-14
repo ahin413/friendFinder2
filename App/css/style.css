@@ -1,0 +1,74 @@
+
+.jumbotron{
+    background-image: url(App/css/images/people-silhouette-during-sunset-853168.jpg);
+height: 700px;
+
+}
+
+
+.jumbotron h1{
+    color: rgb(201, 150, 102);
+    font-family: 'Covered By Your Grace', cursive;
+    size:48px
+}
+.lead{
+    color: rgb(201, 150, 102);
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 40px;
+}
+
+.btn.btn-lg.btn-success{
+    background-color:rgb(201, 150, 102);
+    border: 0px;
+    color:rgb(19, 101, 126);
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+.label{
+    font-family: 'Covered By Your Grace', cursive;
+
+}
+
+
+form{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right:20px;
+    border: solid;
+    border-color:  rgb(201, 150, 102);
+    border-width: 6px;
+    height: 900px;
+    width:660px;
+    float: center;
+    background-color: whitesmoke;
+    opacity: 60%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.form-control{
+    width: 300px;
+}
+.survey{
+    
+    background: url(App/public/images/survey.jpg);
+    background-size: 160%;
+    background-repeat:no-repeat;
+background-position: center center;
+    
+}
+
+h2{
+    color: rgb(201, 150, 102);
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 66px;
+    text-align: center;
+}
+
+.para{
+    color: rgb(189, 139, 92);
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 36px;
+    text-align: center;
+}
